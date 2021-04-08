@@ -1,6 +1,7 @@
 # YoloV4
 
 ## Note: The darknet directory is too big to be uploaded so please download it from the below link and extract it into the yolov4 directory like in the repository.
+(I'll fix this soon)
 https://drive.google.com/file/d/1CfC1RizWKzspagXzKitfo1wMQFoqTlgw/view?usp=sharing
 
 This repository contains the code for darknet yolov4, ready to be trained on our custom drone detection dataset.  
