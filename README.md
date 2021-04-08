@@ -1,5 +1,5 @@
 # YoloV4
-This repository contains the code for darknet yolov4, ready to be trained on our custom drone detection dataset.
+This repository contains the code for darknet yolov4, ready to be trained on our custom drone detection dataset./n
 All the necessary files are in the yolov4 directory and are also copied to the darknet directory.
 Here is info about the files:
 drone_detection_yolov4.ipynb notebook contains code for making the darknet and for initializing training.
