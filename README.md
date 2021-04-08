@@ -11,4 +11,4 @@ Here is info about the files:
 7) yolov4-custom.cfg file contains the yolov4 architecture and hyperparameter values.   
      
 Please make changes to obj.data files according to your own system paths.  
-In case of any missing files in darket directory or updating any above files, please uncomment that perticular code cell in jupyter notebook to update the respective file.
+In case of any missing files in darket directory or updating any above files, please uncomment that particular code cell in jupyter notebook to update the respective file.
