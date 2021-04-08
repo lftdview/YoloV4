@@ -8,6 +8,7 @@ Here is info about the files:
 4) process.py script split the dataset into 70-30 ratio for training and testing. It creates train and test text files that contain path to training and testing images.  
 5) train.txt file contains path to training images.  
 6) test.txt file contains path to testing images.  
-7) yolov4-custom.cfg file contains the yolov4 architecture and hyperparameter values.  
-please make changes to obj.data files according to your own system paths.
+7) yolov4-custom.cfg file contains the yolov4 architecture and hyperparameter values.   
+     
+Please make changes to obj.data files according to your own system paths.  
 In case of any missing files in darket directory or updating any above files, please uncomment that perticular code cell in jupyter notebook to update the respective file.
