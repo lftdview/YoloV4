@@ -9,4 +9,5 @@ process.py script split the dataset into 70-30 ratio for training and testing. I
 train.txt file contains path to training images.  
 test.txt file contains path to testing images.  
 yolov4-custom.cfg file contains the yolov4 architecture and hyperparameter values.  
+please make changes to obj.data files according to your own system paths.
 
